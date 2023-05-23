@@ -1,5 +1,5 @@
 app:
-  name: raffaelklingler-poi-gateway-app
+  name: asdf-poi-gateway-app
   namespace: raffaelklingler
   cluster: .apps.summit23blues.6mbu.p1.openshiftapps.com
 
